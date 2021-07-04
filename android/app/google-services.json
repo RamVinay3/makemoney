@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "599305677221",
+    "project_id": "manabazar-c9dfc",
+    "storage_bucket": "manabazar-c9dfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599305677221:android:c1a18b3cb16f9c6734a04c",
+        "android_client_info": {
+          "package_name": "com.ManaBazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599305677221-2dbnakbeg2v6tg66uub35ac4t03siltj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVYNOUfPDHBEYwgTrWTB807MpF1fKGEz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599305677221-2dbnakbeg2v6tg66uub35ac4t03siltj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599305677221:android:63ed5348cbbe614c34a04c",
+        "android_client_info": {
+          "package_name": "com.manabazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599305677221-2dbnakbeg2v6tg66uub35ac4t03siltj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVYNOUfPDHBEYwgTrWTB807MpF1fKGEz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599305677221-2dbnakbeg2v6tg66uub35ac4t03siltj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
